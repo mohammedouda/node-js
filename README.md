@@ -6,7 +6,7 @@
 
 For POST \ 
 
-curl -X POST -H "Content-Type: application/json"\ 
+curl -X POST -H "Content-Type: application/json" \ 
     -d '{"name": "moha oudah"}' \
     localhost:3000/data 
 
